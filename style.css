@@ -191,7 +191,7 @@ footer .social i{
     }
     
     .grid,.showcase .grid,
-    .cli .grid,
+    .cli .grid,footer .grid
     .cloud .grid{
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
